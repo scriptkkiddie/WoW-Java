@@ -1,7 +1,7 @@
 # WoW-Java
 WoW-Java is all-in-one repository curated with the most relevant, updated, and well-researched information sourced from Internet &amp; Community.
 
-![WoW-Technology](https://img.shields.io/badge/WoW-Technology-brightgreen?style=flat-square&logo=github)
+[![WoW-Technology](https://img.shields.io/badge/WoW-Technology-brightgreen?style=flat-square&logo=github)](https://github.com/topics/wow-technology)
 
 ## Index
 
